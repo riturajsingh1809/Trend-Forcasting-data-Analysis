@@ -1,0 +1,1009 @@
+date,region,category,demand,revenue,year,month,month_name,year_month
+2019-01-01,North,Electronics,539,47940.76,2019,1,January,2019-01
+2019-01-01,West,Office Supplies,299,13095.38,2019,1,January,2019-01
+2019-01-01,West,Furniture,352,40484.04,2019,1,January,2019-01
+2019-01-01,West,Electronics,456,37141.61,2019,1,January,2019-01
+2019-01-01,East,Furniture,365,41026.62,2019,1,January,2019-01
+2019-01-01,East,Electronics,467,37169.01,2019,1,January,2019-01
+2019-01-01,East,Office Supplies,267,11851.46,2019,1,January,2019-01
+2019-01-01,South,Furniture,414,44916.53,2019,1,January,2019-01
+2019-01-01,South,Electronics,493,44973.92,2019,1,January,2019-01
+2019-01-01,North,Office Supplies,298,12224.78,2019,1,January,2019-01
+2019-01-01,North,Furniture,391,47845.81,2019,1,January,2019-01
+2019-01-01,South,Office Supplies,301,14817.99,2019,1,January,2019-01
+2019-02-01,East,Furniture,340,44140.05,2019,2,February,2019-02
+2019-02-01,West,Office Supplies,316,15002.48,2019,2,February,2019-02
+2019-02-01,West,Furniture,363,47651.02,2019,2,February,2019-02
+2019-02-01,West,Electronics,496,42329.21,2019,2,February,2019-02
+2019-02-01,East,Office Supplies,303,13121.54,2019,2,February,2019-02
+2019-02-01,East,Electronics,500,38542.3,2019,2,February,2019-02
+2019-02-01,North,Office Supplies,310,14250.05,2019,2,February,2019-02
+2019-02-01,South,Furniture,373,46409.25,2019,2,February,2019-02
+2019-02-01,South,Electronics,575,41525.63,2019,2,February,2019-02
+2019-02-01,North,Furniture,409,49219.73,2019,2,February,2019-02
+2019-02-01,North,Electronics,586,46818.15,2019,2,February,2019-02
+2019-02-01,South,Office Supplies,292,12982.72,2019,2,February,2019-02
+2019-03-01,East,Furniture,389,51225.58,2019,3,March,2019-03
+2019-03-01,West,Office Supplies,366,15066.9,2019,3,March,2019-03
+2019-03-01,West,Furniture,459,58068.31,2019,3,March,2019-03
+2019-03-01,West,Electronics,577,52139.36,2019,3,March,2019-03
+2019-03-01,East,Electronics,539,41916.61,2019,3,March,2019-03
+2019-03-01,East,Office Supplies,291,11799.96,2019,3,March,2019-03
+2019-03-01,South,Furniture,407,46700.17,2019,3,March,2019-03
+2019-03-01,South,Electronics,542,43963.21,2019,3,March,2019-03
+2019-03-01,South,Office Supplies,360,16338.34,2019,3,March,2019-03
+2019-03-01,North,Office Supplies,352,15487.33,2019,3,March,2019-03
+2019-03-01,North,Furniture,450,50716.61,2019,3,March,2019-03
+2019-03-01,North,Electronics,596,46490.61,2019,3,March,2019-03
+2019-04-01,West,Furniture,447,51648.41,2019,4,April,2019-04
+2019-04-01,West,Electronics,619,51852.51,2019,4,April,2019-04
+2019-04-01,East,Office Supplies,324,14646.29,2019,4,April,2019-04
+2019-04-01,East,Furniture,397,48223.85,2019,4,April,2019-04
+2019-04-01,East,Electronics,555,49635.51,2019,4,April,2019-04
+2019-04-01,West,Office Supplies,347,55337.67,2019,4,April,2019-04
+2019-04-01,South,Furniture,458,59216.24,2019,4,April,2019-04
+2019-04-01,South,Electronics,560,45935.75,2019,4,April,2019-04
+2019-04-01,North,Office Supplies,357,15457.69,2019,4,April,2019-04
+2019-04-01,North,Furniture,451,55454.58,2019,4,April,2019-04
+2019-04-01,North,Electronics,567,51694.95,2019,4,April,2019-04
+2019-04-01,South,Office Supplies,383,17139.22,2019,4,April,2019-04
+2019-05-01,West,Office Supplies,382,17226.95,2019,5,May,2019-05
+2019-05-01,West,Furniture,473,51162.92,2019,5,May,2019-05
+2019-05-01,West,Electronics,586,49083.85,2019,5,May,2019-05
+2019-05-01,East,Office Supplies,325,13829.21,2019,5,May,2019-05
+2019-05-01,East,Furniture,462,59831.86,2019,5,May,2019-05
+2019-05-01,East,Electronics,568,51248.64,2019,5,May,2019-05
+2019-05-01,South,Office Supplies,374,15774.99,2019,5,May,2019-05
+2019-05-01,South,Electronics,571,51525.92,2019,5,May,2019-05
+2019-05-01,North,Office Supplies,367,17934.29,2019,5,May,2019-05
+2019-05-01,North,Furniture,490,61805.28,2019,5,May,2019-05
+2019-05-01,North,Electronics,604,50419.81,2019,5,May,2019-05
+2019-05-01,South,Furniture,481,61225.59,2019,5,May,2019-05
+2019-06-01,East,Furniture,444,48345.07,2019,6,June,2019-06
+2019-06-01,West,Office Supplies,393,17647.69,2019,6,June,2019-06
+2019-06-01,West,Furniture,470,52394.41,2019,6,June,2019-06
+2019-06-01,West,Electronics,674,54753.73,2019,6,June,2019-06
+2019-06-01,East,Office Supplies,357,14623.9,2019,6,June,2019-06
+2019-06-01,East,Electronics,521,42379.33,2019,6,June,2019-06
+2019-06-01,North,Office Supplies,395,17841.8,2019,6,June,2019-06
+2019-06-01,South,Furniture,472,61878.6,2019,6,June,2019-06
+2019-06-01,South,Electronics,606,53601.5,2019,6,June,2019-06
+2019-06-01,South,Office Supplies,373,15951.73,2019,6,June,2019-06
+2019-06-01,North,Furniture,478,55497.12,2019,6,June,2019-06
+2019-06-01,North,Electronics,580,45551.87,2019,6,June,2019-06
+2019-07-01,West,Office Supplies,356,17229.0,2019,7,July,2019-07
+2019-07-01,North,Furniture,433,56373.42,2019,7,July,2019-07
+2019-07-01,West,Electronics,628,49510.17,2019,7,July,2019-07
+2019-07-01,East,Office Supplies,309,15119.55,2019,7,July,2019-07
+2019-07-01,East,Furniture,427,47902.91,2019,7,July,2019-07
+2019-07-01,East,Electronics,512,44783.58,2019,7,July,2019-07
+2019-07-01,South,Furniture,417,45444.08,2019,7,July,2019-07
+2019-07-01,South,Electronics,536,45885.98,2019,7,July,2019-07
+2019-07-01,North,Office Supplies,419,19358.54,2019,7,July,2019-07
+2019-07-01,North,Furniture,491,61609.3,2019,7,July,2019-07
+2019-07-01,North,Electronics,632,50901.18,2019,7,July,2019-07
+2019-07-01,South,Office Supplies,339,15532.31,2019,7,July,2019-07
+2019-08-01,East,Furniture,418,52967.71,2019,8,August,2019-08
+2019-08-01,West,Office Supplies,330,13842.6,2019,8,August,2019-08
+2019-08-01,West,Furniture,448,48438.42,2019,8,August,2019-08
+2019-08-01,West,Electronics,577,52954.42,2019,8,August,2019-08
+2019-08-01,East,Office Supplies,301,12628.35,2019,8,August,2019-08
+2019-08-01,East,Electronics,555,50827.16,2019,8,August,2019-08
+2019-08-01,North,Electronics,608,54958.81,2019,8,August,2019-08
+2019-08-01,South,Furniture,437,50751.74,2019,8,August,2019-08
+2019-08-01,South,Electronics,565,51840.26,2019,8,August,2019-08
+2019-08-01,North,Office Supplies,320,13228.14,2019,8,August,2019-08
+2019-08-01,North,Furniture,421,51077.75,2019,8,August,2019-08
+2019-08-01,South,Office Supplies,362,15798.72,2019,8,August,2019-08
+2019-09-01,East,Furniture,419,47705.56,2019,9,September,2019-09
+2019-09-01,West,Office Supplies,421,18916.65,2019,9,September,2019-09
+2019-09-01,West,Furniture,470,57267.48,2019,9,September,2019-09
+2019-09-01,West,Electronics,610,53209.91,2019,9,September,2019-09
+2019-09-01,East,Office Supplies,348,16887.89,2019,9,September,2019-09
+2019-09-01,East,Electronics,563,45607.75,2019,9,September,2019-09
+2019-09-01,North,Electronics,667,58418.09,2019,9,September,2019-09
+2019-09-01,South,Furniture,487,60282.18,2019,9,September,2019-09
+2019-09-01,South,Electronics,612,54584.5,2019,9,September,2019-09
+2019-09-01,North,Office Supplies,368,15981.72,2019,9,September,2019-09
+2019-09-01,North,Furniture,498,56464.47,2019,9,September,2019-09
+2019-09-01,South,Office Supplies,382,17424.84,2019,9,September,2019-09
+2019-10-01,West,Office Supplies,375,17536.6,2019,10,October,2019-10
+2019-10-01,West,Furniture,506,66016.66,2019,10,October,2019-10
+2019-10-01,West,Electronics,588,48149.95,2019,10,October,2019-10
+2019-10-01,East,Office Supplies,356,17145.04,2019,10,October,2019-10
+2019-10-01,East,Furniture,468,60125.0,2019,10,October,2019-10
+2019-10-01,East,Electronics,613,56936.38,2019,10,October,2019-10
+2019-10-01,South,Furniture,484,52451.54,2019,10,October,2019-10
+2019-10-01,South,Electronics,634,58782.44,2019,10,October,2019-10
+2019-10-01,North,Office Supplies,395,19340.83,2019,10,October,2019-10
+2019-10-01,North,Furniture,491,53314.54,2019,10,October,2019-10
+2019-10-01,North,Electronics,663,53884.09,2019,10,October,2019-10
+2019-10-01,South,Office Supplies,420,20519.04,2019,10,October,2019-10
+2019-11-01,East,Furniture,524,68076.91,2019,11,November,2019-11
+2019-11-01,West,Office Supplies,468,20377.64,2019,11,November,2019-11
+2019-11-01,West,Furniture,567,73347.19,2019,11,November,2019-11
+2019-11-01,West,Electronics,778,68113.42,2019,11,November,2019-11
+2019-11-01,East,Office Supplies,434,20695.14,2019,11,November,2019-11
+2019-11-01,East,Electronics,654,59671.11,2019,11,November,2019-11
+2019-11-01,North,Office Supplies,467,22601.1,2019,11,November,2019-11
+2019-11-01,South,Furniture,560,65311.56,2019,11,November,2019-11
+2019-11-01,North,Electronics,660,57390.38,2019,11,November,2019-11
+2019-11-01,North,Furniture,559,73654.56,2019,11,November,2019-11
+2019-11-01,South,Office Supplies,470,20276.89,2019,11,November,2019-11
+2019-11-01,South,Electronics,628,55950.45,2019,11,November,2019-11
+2019-12-01,West,Office Supplies,485,20824.68,2019,12,December,2019-12
+2019-12-01,West,Furniture,513,65194.33,2019,12,December,2019-12
+2019-12-01,West,Electronics,682,59563.36,2019,12,December,2019-12
+2019-12-01,East,Office Supplies,451,20459.94,2019,12,December,2019-12
+2019-12-01,East,Electronics,650,56607.94,2019,12,December,2019-12
+2019-12-01,East,Furniture,559,61517.02,2019,12,December,2019-12
+2019-12-01,South,Furniture,547,60744.05,2019,12,December,2019-12
+2019-12-01,South,Electronics,638,55215.18,2019,12,December,2019-12
+2019-12-01,North,Office Supplies,560,24124.17,2019,12,December,2019-12
+2019-12-01,North,Furniture,578,62922.59,2019,12,December,2019-12
+2019-12-01,North,Electronics,693,59827.22,2019,12,December,2019-12
+2019-12-01,South,Office Supplies,500,22600.09,2019,12,December,2019-12
+2020-01-01,East,Furniture,411,51666.62,2020,1,January,2020-01
+2020-01-01,West,Furniture,450,48755.45,2020,1,January,2020-01
+2020-01-01,West,Electronics,574,46328.36,2020,1,January,2020-01
+2020-01-01,East,Office Supplies,354,15673.85,2020,1,January,2020-01
+2020-01-01,East,Electronics,480,44511.7,2020,1,January,2020-01
+2020-01-01,North,Furniture,427,55981.22,2020,1,January,2020-01
+2020-01-01,South,Furniture,392,47503.12,2020,1,January,2020-01
+2020-01-01,South,Electronics,559,44410.32,2020,1,January,2020-01
+2020-01-01,North,Office Supplies,354,15639.92,2020,1,January,2020-01
+2020-01-01,North,Electronics,538,41388.86,2020,1,January,2020-01
+2020-01-01,South,Office Supplies,297,13938.61,2020,1,January,2020-01
+2020-02-01,East,Furniture,365,46922.85,2020,2,February,2020-02
+2020-02-01,West,Office Supplies,334,15256.88,2020,2,February,2020-02
+2020-02-01,West,Furniture,437,57057.13,2020,2,February,2020-02
+2020-02-01,West,Electronics,578,50529.41,2020,2,February,2020-02
+2020-02-01,East,Office Supplies,288,11846.91,2020,2,February,2020-02
+2020-02-01,East,Electronics,575,48905.66,2020,2,February,2020-02
+2020-02-01,North,Furniture,472,52084.27,2020,2,February,2020-02
+2020-02-01,South,Furniture,471,58047.1,2020,2,February,2020-02
+2020-02-01,South,Electronics,526,44118.5,2020,2,February,2020-02
+2020-02-01,North,Office Supplies,269,11313.82,2020,2,February,2020-02
+2020-02-01,North,Electronics,592,50060.09,2020,2,February,2020-02
+2020-02-01,South,Office Supplies,295,12067.78,2020,2,February,2020-02
+2020-03-01,West,Office Supplies,359,17146.38,2020,3,March,2020-03
+2020-03-01,West,Furniture,442,55698.52,2020,3,March,2020-03
+2020-03-01,West,Electronics,604,54456.14,2020,3,March,2020-03
+2020-03-01,East,Office Supplies,370,17432.79,2020,3,March,2020-03
+2020-03-01,East,Furniture,459,57247.26,2020,3,March,2020-03
+2020-03-01,East,Electronics,548,43022.82,2020,3,March,2020-03
+2020-03-01,South,Office Supplies,348,15093.03,2020,3,March,2020-03
+2020-03-01,South,Electronics,601,55226.47,2020,3,March,2020-03
+2020-03-01,North,Office Supplies,386,18972.18,2020,3,March,2020-03
+2020-03-01,North,Furniture,445,53887.19,2020,3,March,2020-03
+2020-03-01,North,Electronics,654,55125.86,2020,3,March,2020-03
+2020-03-01,South,Furniture,463,50795.05,2020,3,March,2020-03
+2020-04-01,East,Electronics,617,50557.5,2020,4,April,2020-04
+2020-04-01,West,Office Supplies,449,19512.63,2020,4,April,2020-04
+2020-04-01,West,Electronics,606,52266.56,2020,4,April,2020-04
+2020-04-01,East,Office Supplies,369,18101.47,2020,4,April,2020-04
+2020-04-01,East,Furniture,451,58401.14,2020,4,April,2020-04
+2020-04-01,West,Furniture,457,52571.94,2020,4,April,2020-04
+2020-04-01,South,Office Supplies,403,19595.06,2020,4,April,2020-04
+2020-04-01,South,Electronics,594,49772.98,2020,4,April,2020-04
+2020-04-01,North,Office Supplies,420,20254.8,2020,4,April,2020-04
+2020-04-01,North,Furniture,498,63063.69,2020,4,April,2020-04
+2020-04-01,North,Electronics,624,51682.37,2020,4,April,2020-04
+2020-04-01,South,Furniture,493,54464.16,2020,4,April,2020-04
+2020-05-01,West,Office Supplies,416,20541.98,2020,5,May,2020-05
+2020-05-01,West,Furniture,487,53587.58,2020,5,May,2020-05
+2020-05-01,West,Electronics,616,55730.52,2020,5,May,2020-05
+2020-05-01,East,Office Supplies,387,15926.93,2020,5,May,2020-05
+2020-05-01,East,Furniture,454,50133.83,2020,5,May,2020-05
+2020-05-01,East,Electronics,612,53249.94,2020,5,May,2020-05
+2020-05-01,South,Office Supplies,396,16455.23,2020,5,May,2020-05
+2020-05-01,South,Furniture,517,60190.15,2020,5,May,2020-05
+2020-05-01,South,Electronics,595,51075.98,2020,5,May,2020-05
+2020-05-01,North,Office Supplies,425,17432.66,2020,5,May,2020-05
+2020-05-01,North,Furniture,537,68172.6,2020,5,May,2020-05
+2020-05-01,North,Electronics,677,60900.78,2020,5,May,2020-05
+2020-06-01,West,Furniture,507,58232.54,2020,6,June,2020-06
+2020-06-01,West,Electronics,617,53319.45,2020,6,June,2020-06
+2020-06-01,East,Office Supplies,399,18838.55,2020,6,June,2020-06
+2020-06-01,East,Furniture,472,52321.97,2020,6,June,2020-06
+2020-06-01,East,Electronics,1245,47171.41,2020,6,June,2020-06
+2020-06-01,South,Office Supplies,406,18243.05,2020,6,June,2020-06
+2020-06-01,West,Office Supplies,431,20824.8,2020,6,June,2020-06
+2020-06-01,South,Electronics,624,53659.55,2020,6,June,2020-06
+2020-06-01,North,Office Supplies,415,19710.14,2020,6,June,2020-06
+2020-06-01,North,Furniture,486,63536.71,2020,6,June,2020-06
+2020-06-01,North,Electronics,614,55455.0,2020,6,June,2020-06
+2020-06-01,South,Furniture,524,57990.42,2020,6,June,2020-06
+2020-07-01,West,Furniture,500,57714.33,2020,7,July,2020-07
+2020-07-01,West,Electronics,605,47082.0,2020,7,July,2020-07
+2020-07-01,East,Office Supplies,311,14229.15,2020,7,July,2020-07
+2020-07-01,East,Furniture,437,49169.01,2020,7,July,2020-07
+2020-07-01,East,Electronics,651,52871.28,2020,7,July,2020-07
+2020-07-01,South,Office Supplies,369,17937.25,2020,7,July,2020-07
+2020-07-01,West,Office Supplies,453,21664.34,2020,7,July,2020-07
+2020-07-01,South,Electronics,624,55116.5,2020,7,July,2020-07
+2020-07-01,North,Office Supplies,416,19204.47,2020,7,July,2020-07
+2020-07-01,North,Furniture,505,61252.71,2020,7,July,2020-07
+2020-07-01,North,Electronics,641,49840.66,2020,7,July,2020-07
+2020-07-01,South,Furniture,540,65892.71,2020,7,July,2020-07
+2020-08-01,West,Office Supplies,386,18915.12,2020,8,August,2020-08
+2020-08-01,West,Furniture,475,60066.46,2020,8,August,2020-08
+2020-08-01,West,Electronics,640,51934.67,2020,8,August,2020-08
+2020-08-01,East,Office Supplies,352,15570.15,2020,8,August,2020-08
+2020-08-01,East,Furniture,483,61925.84,2020,8,August,2020-08
+2020-08-01,East,Electronics,527,49004.96,2020,8,August,2020-08
+2020-08-01,South,Office Supplies,362,15151.06,2020,8,August,2020-08
+2020-08-01,South,Electronics,646,58930.11,2020,8,August,2020-08
+2020-08-01,North,Office Supplies,363,17748.72,2020,8,August,2020-08
+2020-08-01,North,Furniture,504,64381.41,2020,8,August,2020-08
+2020-08-01,North,Electronics,595,54731.53,2020,8,August,2020-08
+2020-08-01,South,Furniture,498,65583.92,2020,8,August,2020-08
+2020-09-01,East,Electronics,648,55302.12,2020,9,September,2020-09
+2020-09-01,West,Office Supplies,453,19214.75,2020,9,September,2020-09
+2020-09-01,West,Furniture,523,58234.5,2020,9,September,2020-09
+2020-09-01,West,Electronics,684,57017.7,2020,9,September,2020-09
+2020-09-01,East,Furniture,478,61400.23,2020,9,September,2020-09
+2020-09-01,South,Office Supplies,441,20525.97,2020,9,September,2020-09
+2020-09-01,East,Office Supplies,443,21436.72,2020,9,September,2020-09
+2020-09-01,South,Electronics,639,56180.18,2020,9,September,2020-09
+2020-09-01,North,Office Supplies,433,18427.52,2020,9,September,2020-09
+2020-09-01,South,Furniture,452,50047.87,2020,9,September,2020-09
+2020-09-01,North,Furniture,537,59660.61,2020,9,September,2020-09
+2020-09-01,North,Electronics,637,53609.44,2020,9,September,2020-09
+2020-10-01,West,Office Supplies,419,18273.01,2020,10,October,2020-10
+2020-10-01,West,Furniture,545,61238.99,2020,10,October,2020-10
+2020-10-01,West,Electronics,663,53426.18,2020,10,October,2020-10
+2020-10-01,East,Office Supplies,357,16493.62,2020,10,October,2020-10
+2020-10-01,East,Furniture,503,66154.95,2020,10,October,2020-10
+2020-10-01,East,Electronics,587,49487.22,2020,10,October,2020-10
+2020-10-01,South,Office Supplies,396,19422.09,2020,10,October,2020-10
+2020-10-01,South,Furniture,571,73485.83,2020,10,October,2020-10
+2020-10-01,South,Electronics,675,60629.92,2020,10,October,2020-10
+2020-10-01,North,Office Supplies,452,20396.91,2020,10,October,2020-10
+2020-10-01,North,Furniture,501,59368.2,2020,10,October,2020-10
+2020-10-01,North,Electronics,710,59049.39,2020,10,October,2020-10
+2020-11-01,West,Furniture,572,72843.53,2020,11,November,2020-11
+2020-11-01,West,Electronics,711,65522.08,2020,11,November,2020-11
+2020-11-01,East,Office Supplies,435,21037.56,2020,11,November,2020-11
+2020-11-01,East,Furniture,546,69443.47,2020,11,November,2020-11
+2020-11-01,East,Electronics,730,56332.86,2020,11,November,2020-11
+2020-11-01,South,Office Supplies,446,19525.18,2020,11,November,2020-11
+2020-11-01,West,Office Supplies,479,22625.25,2020,11,November,2020-11
+2020-11-01,South,Electronics,673,52499.35,2020,11,November,2020-11
+2020-11-01,North,Office Supplies,485,20415.15,2020,11,November,2020-11
+2020-11-01,North,Furniture,617,69187.71,2020,11,November,2020-11
+2020-11-01,North,Electronics,718,63075.21,2020,11,November,2020-11
+2020-11-01,South,Furniture,562,63479.03,2020,11,November,2020-11
+2020-12-01,West,Furniture,587,65083.21,2020,12,December,2020-12
+2020-12-01,West,Electronics,695,56972.87,2020,12,December,2020-12
+2020-12-01,East,Office Supplies,464,18875.82,2020,12,December,2020-12
+2020-12-01,East,Furniture,548,62372.97,2020,12,December,2020-12
+2020-12-01,East,Electronics,701,59973.7,2020,12,December,2020-12
+2020-12-01,South,Office Supplies,514,23278.56,2020,12,December,2020-12
+2020-12-01,West,Office Supplies,485,23529.65,2020,12,December,2020-12
+2020-12-01,South,Electronics,763,68064.95,2020,12,December,2020-12
+2020-12-01,North,Office Supplies,488,21795.45,2020,12,December,2020-12
+2020-12-01,North,Furniture,604,72255.65,2020,12,December,2020-12
+2020-12-01,North,Electronics,735,60856.55,2020,12,December,2020-12
+2020-12-01,South,Furniture,611,73491.24,2020,12,December,2020-12
+2021-01-01,West,Office Supplies,346,14900.79,2021,1,January,2021-01
+2021-01-01,West,Furniture,432,48590.33,2021,1,January,2021-01
+2021-01-01,West,Electronics,596,47142.77,2021,1,January,2021-01
+2021-01-01,East,Office Supplies,291,12052.07,2021,1,January,2021-01
+2021-01-01,East,Furniture,473,62282.92,2021,1,January,2021-01
+2021-01-01,East,Electronics,576,47550.9,2021,1,January,2021-01
+2021-01-01,South,Office Supplies,345,15099.87,2021,1,January,2021-01
+2021-01-01,South,Electronics,546,48688.17,2021,1,January,2021-01
+2021-01-01,North,Office Supplies,377,17259.65,2021,1,January,2021-01
+2021-01-01,North,Furniture,490,58781.68,2021,1,January,2021-01
+2021-01-01,North,Electronics,642,57726.01,2021,1,January,2021-01
+2021-01-01,South,Furniture,411,47187.17,2021,1,January,2021-01
+2021-02-01,West,Office Supplies,381,17524.32,2021,2,February,2021-02
+2021-02-01,East,Furniture,461,52885.69,2021,2,February,2021-02
+2021-02-01,West,Furniture,424,46960.58,2021,2,February,2021-02
+2021-02-01,West,Electronics,616,51579.17,2021,2,February,2021-02
+2021-02-01,East,Office Supplies,331,14369.74,2021,2,February,2021-02
+2021-02-01,East,Electronics,573,49402.58,2021,2,February,2021-02
+2021-02-01,South,Office Supplies,391,18188.46,2021,2,February,2021-02
+2021-02-01,South,Furniture,444,49772.98,2021,2,February,2021-02
+2021-02-01,South,Electronics,565,51535.7,2021,2,February,2021-02
+2021-02-01,North,Office Supplies,388,19099.39,2021,2,February,2021-02
+2021-02-01,North,Furniture,462,60788.61,2021,2,February,2021-02
+2021-02-01,North,Electronics,616,51421.68,2021,2,February,2021-02
+2021-03-01,West,Office Supplies,393,16557.52,2021,3,March,2021-03
+2021-03-01,West,Furniture,510,66565.29,2021,3,March,2021-03
+2021-03-01,West,Electronics,624,57973.01,2021,3,March,2021-03
+2021-03-01,East,Office Supplies,396,18998.33,2021,3,March,2021-03
+2021-03-01,East,Furniture,510,60120.93,2021,3,March,2021-03
+2021-03-01,East,Electronics,615,51977.83,2021,3,March,2021-03
+2021-03-01,South,Office Supplies,384,17907.27,2021,3,March,2021-03
+2021-03-01,South,Furniture,518,59109.69,2021,3,March,2021-03
+2021-03-01,South,Electronics,621,48925.52,2021,3,March,2021-03
+2021-03-01,North,Office Supplies,407,17716.48,2021,3,March,2021-03
+2021-03-01,North,Furniture,468,55948.17,2021,3,March,2021-03
+2021-03-01,North,Electronics,663,52459.32,2021,3,March,2021-03
+2021-04-01,West,Furniture,516,58603.72,2021,4,April,2021-04
+2021-04-01,West,Electronics,617,50361.65,2021,4,April,2021-04
+2021-04-01,East,Office Supplies,338,15096.47,2021,4,April,2021-04
+2021-04-01,East,Furniture,476,60736.83,2021,4,April,2021-04
+2021-04-01,East,Electronics,639,53146.63,2021,4,April,2021-04
+2021-04-01,South,Office Supplies,403,18218.66,2021,4,April,2021-04
+2021-04-01,West,Office Supplies,472,22937.39,2021,4,April,2021-04
+2021-04-01,South,Electronics,623,49392.78,2021,4,April,2021-04
+2021-04-01,North,Office Supplies,449,18999.28,2021,4,April,2021-04
+2021-04-01,North,Furniture,526,67435.25,2021,4,April,2021-04
+2021-04-01,North,Electronics,662,57108.12,2021,4,April,2021-04
+2021-04-01,South,Furniture,516,63965.8,2021,4,April,2021-04
+2021-05-01,West,Furniture,564,62409.51,2021,5,May,2021-05
+2021-05-01,West,Electronics,652,59596.07,2021,5,May,2021-05
+2021-05-01,East,Office Supplies,417,19750.01,2021,5,May,2021-05
+2021-05-01,East,Furniture,481,60536.12,2021,5,May,2021-05
+2021-05-01,East,Electronics,622,50210.52,2021,5,May,2021-05
+2021-05-01,South,Office Supplies,499,23751.09,2021,5,May,2021-05
+2021-05-01,West,Office Supplies,431,20738.89,2021,5,May,2021-05
+2021-05-01,South,Electronics,687,61828.92,2021,5,May,2021-05
+2021-05-01,North,Office Supplies,419,17494.69,2021,5,May,2021-05
+2021-05-01,North,Furniture,488,60015.08,2021,5,May,2021-05
+2021-05-01,North,Electronics,703,64612.75,2021,5,May,2021-05
+2021-05-01,South,Furniture,543,70293.21,2021,5,May,2021-05
+2021-06-01,West,Office Supplies,475,23181.18,2021,6,June,2021-06
+2021-06-01,West,Furniture,548,68346.35,2021,6,June,2021-06
+2021-06-01,West,Electronics,643,55873.31,2021,6,June,2021-06
+2021-06-01,East,Office Supplies,433,19507.95,2021,6,June,2021-06
+2021-06-01,East,Furniture,557,72819.28,2021,6,June,2021-06
+2021-06-01,East,Electronics,595,50190.69,2021,6,June,2021-06
+2021-06-01,South,Office Supplies,498,21718.41,2021,6,June,2021-06
+2021-06-01,South,Electronics,639,55848.29,2021,6,June,2021-06
+2021-06-01,North,Office Supplies,491,23067.34,2021,6,June,2021-06
+2021-06-01,North,Furniture,533,59481.74,2021,6,June,2021-06
+2021-06-01,North,Electronics,682,61416.84,2021,6,June,2021-06
+2021-06-01,South,Furniture,547,62381.62,2021,6,June,2021-06
+2021-07-01,West,Furniture,497,60086.05,2021,7,July,2021-07
+2021-07-01,East,Electronics,627,54267.9,2021,7,July,2021-07
+2021-07-01,West,Electronics,643,49240.13,2021,7,July,2021-07
+2021-07-01,East,Office Supplies,401,19138.0,2021,7,July,2021-07
+2021-07-01,East,Furniture,526,61845.01,2021,7,July,2021-07
+2021-07-01,South,Office Supplies,421,20229.08,2021,7,July,2021-07
+2021-07-01,West,Office Supplies,389,18974.91,2021,7,July,2021-07
+2021-07-01,South,Electronics,631,58200.07,2021,7,July,2021-07
+2021-07-01,North,Office Supplies,495,24210.11,2021,7,July,2021-07
+2021-07-01,North,Furniture,553,67776.32,2021,7,July,2021-07
+2021-07-01,North,Electronics,648,55920.39,2021,7,July,2021-07
+2021-07-01,South,Furniture,487,64106.82,2021,7,July,2021-07
+2021-08-01,West,Office Supplies,422,19939.35,2021,8,August,2021-08
+2021-08-01,West,Furniture,582,63792.92,2021,8,August,2021-08
+2021-08-01,West,Electronics,609,56909.14,2021,8,August,2021-08
+2021-08-01,East,Office Supplies,382,15764.43,2021,8,August,2021-08
+2021-08-01,East,Furniture,512,63449.55,2021,8,August,2021-08
+2021-08-01,East,Electronics,662,50790.37,2021,8,August,2021-08
+2021-08-01,South,Office Supplies,408,17854.71,2021,8,August,2021-08
+2021-08-01,South,Furniture,424,55101.47,2021,8,August,2021-08
+2021-08-01,South,Electronics,588,46745.16,2021,8,August,2021-08
+2021-08-01,North,Office Supplies,428,17876.58,2021,8,August,2021-08
+2021-08-01,North,Furniture,489,58119.23,2021,8,August,2021-08
+2021-08-01,North,Electronics,619,55114.23,2021,8,August,2021-08
+2021-09-01,West,Furniture,566,61496.07,2021,9,September,2021-09
+2021-09-01,West,Electronics,648,54074.62,2021,9,September,2021-09
+2021-09-01,East,Office Supplies,381,17638.77,2021,9,September,2021-09
+2021-09-01,East,Furniture,452,50789.56,2021,9,September,2021-09
+2021-09-01,East,Electronics,675,53418.88,2021,9,September,2021-09
+2021-09-01,South,Office Supplies,482,21433.03,2021,9,September,2021-09
+2021-09-01,West,Office Supplies,486,20653.91,2021,9,September,2021-09
+2021-09-01,South,Electronics,645,50063.0,2021,9,September,2021-09
+2021-09-01,North,Office Supplies,464,21150.78,2021,9,September,2021-09
+2021-09-01,North,Furniture,551,62029.65,2021,9,September,2021-09
+2021-09-01,North,Electronics,691,55271.28,2021,9,September,2021-09
+2021-09-01,South,Furniture,523,63066.15,2021,9,September,2021-09
+2021-10-01,West,Furniture,579,68388.12,2021,10,October,2021-10
+2021-10-01,West,Electronics,691,53865.97,2021,10,October,2021-10
+2021-10-01,East,Office Supplies,467,18968.15,2021,10,October,2021-10
+2021-10-01,East,Furniture,572,64590.02,2021,10,October,2021-10
+2021-10-01,East,Electronics,660,57985.92,2021,10,October,2021-10
+2021-10-01,South,Office Supplies,460,22172.58,2021,10,October,2021-10
+2021-10-01,West,Office Supplies,445,21597.65,2021,10,October,2021-10
+2021-10-01,South,Electronics,704,56706.57,2021,10,October,2021-10
+2021-10-01,North,Office Supplies,480,22259.86,2021,10,October,2021-10
+2021-10-01,North,Furniture,553,61105.73,2021,10,October,2021-10
+2021-10-01,North,Electronics,735,56473.78,2021,10,October,2021-10
+2021-10-01,South,Furniture,553,69309.93,2021,10,October,2021-10
+2021-11-01,West,Office Supplies,472,20211.51,2021,11,November,2021-11
+2021-11-01,West,Furniture,619,76262.95,2021,11,November,2021-11
+2021-11-01,West,Electronics,744,57200.19,2021,11,November,2021-11
+2021-11-01,East,Office Supplies,493,21853.17,2021,11,November,2021-11
+2021-11-01,East,Furniture,591,70741.72,2021,11,November,2021-11
+2021-11-01,East,Electronics,695,63428.45,2021,11,November,2021-11
+2021-11-01,South,Office Supplies,558,27362.13,2021,11,November,2021-11
+2021-11-01,South,Electronics,747,62344.62,2021,11,November,2021-11
+2021-11-01,North,Office Supplies,491,22643.61,2021,11,November,2021-11
+2021-11-01,North,Furniture,654,76591.65,2021,11,November,2021-11
+2021-11-01,North,Electronics,740,59873.55,2021,11,November,2021-11
+2021-11-01,South,Furniture,542,62366.41,2021,11,November,2021-11
+2021-12-01,West,Furniture,588,70826.97,2021,12,December,2021-12
+2021-12-01,East,Electronics,769,61527.05,2021,12,December,2021-12
+2021-12-01,West,Electronics,798,70068.89,2021,12,December,2021-12
+2021-12-01,East,Office Supplies,527,24191.75,2021,12,December,2021-12
+2021-12-01,East,Furniture,623,67448.41,2021,12,December,2021-12
+2021-12-01,South,Office Supplies,513,23335.14,2021,12,December,2021-12
+2021-12-01,West,Office Supplies,514,21034.26,2021,12,December,2021-12
+2021-12-01,South,Electronics,738,67927.79,2021,12,December,2021-12
+2021-12-01,North,Electronics,790,73655.52,2021,12,December,2021-12
+2021-12-01,South,Furniture,635,72756.6,2021,12,December,2021-12
+2021-12-01,North,Office Supplies,550,22366.03,2021,12,December,2021-12
+2021-12-01,North,Furniture,650,78400.77,2021,12,December,2021-12
+2022-01-01,West,Furniture,517,57158.67,2022,1,January,2022-01
+2022-01-01,West,Electronics,618,53547.43,2022,1,January,2022-01
+2022-01-01,East,Office Supplies,349,15693.59,2022,1,January,2022-01
+2022-01-01,East,Furniture,460,52052.94,2022,1,January,2022-01
+2022-01-01,East,Electronics,599,53283.28,2022,1,January,2022-01
+2022-01-01,South,Office Supplies,415,18585.55,2022,1,January,2022-01
+2022-01-01,West,Office Supplies,375,15441.09,2022,1,January,2022-01
+2022-01-01,South,Electronics,566,46721.28,2022,1,January,2022-01
+2022-01-01,North,Office Supplies,393,16937.61,2022,1,January,2022-01
+2022-01-01,North,Furniture,480,58788.31,2022,1,January,2022-01
+2022-01-01,North,Electronics,644,50172.48,2022,1,January,2022-01
+2022-01-01,South,Furniture,448,54473.98,2022,1,January,2022-01
+2022-02-01,West,Office Supplies,428,19219.26,2022,2,February,2022-02
+2022-02-01,West,Furniture,528,60187.79,2022,2,February,2022-02
+2022-02-01,West,Electronics,652,57179.95,2022,2,February,2022-02
+2022-02-01,East,Office Supplies,396,18912.58,2022,2,February,2022-02
+2022-02-01,East,Furniture,492,59534.77,2022,2,February,2022-02
+2022-02-01,East,Electronics,603,48027.3,2022,2,February,2022-02
+2022-02-01,South,Office Supplies,361,14918.05,2022,2,February,2022-02
+2022-02-01,South,Electronics,609,53780.69,2022,2,February,2022-02
+2022-02-01,North,Office Supplies,450,21462.63,2022,2,February,2022-02
+2022-02-01,North,Furniture,570,67508.44,2022,2,February,2022-02
+2022-02-01,South,Furniture,512,59731.65,2022,2,February,2022-02
+2022-02-01,North,Electronics,649,57243.64,2022,2,February,2022-02
+2022-03-01,West,Office Supplies,420,18201.8,2022,3,March,2022-03
+2022-03-01,East,Electronics,661,50982.35,2022,3,March,2022-03
+2022-03-01,West,Furniture,570,62454.07,2022,3,March,2022-03
+2022-03-01,West,Electronics,656,57949.01,2022,3,March,2022-03
+2022-03-01,East,Office Supplies,403,16600.61,2022,3,March,2022-03
+2022-03-01,East,Furniture,491,60054.44,2022,3,March,2022-03
+2022-03-01,South,Office Supplies,454,21837.83,2022,3,March,2022-03
+2022-03-01,South,Electronics,684,63617.47,2022,3,March,2022-03
+2022-03-01,North,Office Supplies,430,20992.41,2022,3,March,2022-03
+2022-03-01,North,Furniture,556,67626.66,2022,3,March,2022-03
+2022-03-01,North,Electronics,692,55062.29,2022,3,March,2022-03
+2022-03-01,South,Furniture,524,67433.05,2022,3,March,2022-03
+2022-04-01,West,Furniture,538,62682.88,2022,4,April,2022-04
+2022-04-01,West,Electronics,721,64197.05,2022,4,April,2022-04
+2022-04-01,East,Office Supplies,418,18514.15,2022,4,April,2022-04
+2022-04-01,East,Furniture,559,68790.61,2022,4,April,2022-04
+2022-04-01,East,Electronics,636,53842.42,2022,4,April,2022-04
+2022-04-01,South,Office Supplies,480,22890.74,2022,4,April,2022-04
+2022-04-01,West,Office Supplies,452,19474.49,2022,4,April,2022-04
+2022-04-01,South,Electronics,695,53455.8,2022,4,April,2022-04
+2022-04-01,North,Office Supplies,482,20531.58,2022,4,April,2022-04
+2022-04-01,North,Furniture,571,70245.22,2022,4,April,2022-04
+2022-04-01,North,Electronics,736,60292.23,2022,4,April,2022-04
+2022-04-01,South,Furniture,542,70751.39,2022,4,April,2022-04
+2022-05-01,West,Office Supplies,465,19612.74,2022,5,May,2022-05
+2022-05-01,West,Furniture,552,62537.0,2022,5,May,2022-05
+2022-05-01,West,Electronics,714,60844.01,2022,5,May,2022-05
+2022-05-01,East,Office Supplies,455,20916.18,2022,5,May,2022-05
+2022-05-01,East,Furniture,551,62571.63,2022,5,May,2022-05
+2022-05-01,East,Electronics,639,59650.56,2022,5,May,2022-05
+2022-05-01,South,Office Supplies,464,20743.87,2022,5,May,2022-05
+2022-05-01,South,Electronics,697,61373.64,2022,5,May,2022-05
+2022-05-01,North,Office Supplies,494,21715.72,2022,5,May,2022-05
+2022-05-01,North,Furniture,564,61153.94,2022,5,May,2022-05
+2022-05-01,North,Electronics,687,53047.11,2022,5,May,2022-05
+2022-05-01,South,Furniture,588,76836.06,2022,5,May,2022-05
+2022-06-01,West,Furniture,588,72750.77,2022,6,June,2022-06
+2022-06-01,East,Electronics,723,56433.96,2022,6,June,2022-06
+2022-06-01,West,Electronics,699,64829.51,2022,6,June,2022-06
+2022-06-01,East,Office Supplies,443,21484.94,2022,6,June,2022-06
+2022-06-01,East,Furniture,600,77435.44,2022,6,June,2022-06
+2022-06-01,South,Office Supplies,498,22575.72,2022,6,June,2022-06
+2022-06-01,West,Office Supplies,499,22683.4,2022,6,June,2022-06
+2022-06-01,South,Electronics,684,54115.5,2022,6,June,2022-06
+2022-06-01,North,Office Supplies,545,25486.48,2022,6,June,2022-06
+2022-06-01,North,Furniture,628,82430.31,2022,6,June,2022-06
+2022-06-01,North,Electronics,707,54780.71,2022,6,June,2022-06
+2022-06-01,South,Furniture,555,62921.25,2022,6,June,2022-06
+2022-07-01,West,Office Supplies,501,24201.13,2022,7,July,2022-07
+2022-07-01,West,Furniture,577,74094.86,2022,7,July,2022-07
+2022-07-01,West,Electronics,742,67846.04,2022,7,July,2022-07
+2022-07-01,East,Office Supplies,459,19692.59,2022,7,July,2022-07
+2022-07-01,East,Furniture,515,59918.92,2022,7,July,2022-07
+2022-07-01,East,Electronics,731,66169.81,2022,7,July,2022-07
+2022-07-01,South,Office Supplies,466,20949.64,2022,7,July,2022-07
+2022-07-01,South,Furniture,536,68837.93,2022,7,July,2022-07
+2022-07-01,South,Electronics,730,58577.47,2022,7,July,2022-07
+2022-07-01,North,Office Supplies,484,19955.04,2022,7,July,2022-07
+2022-07-01,North,Furniture,553,63171.45,2022,7,July,2022-07
+2022-07-01,North,Electronics,700,57984.99,2022,7,July,2022-07
+2022-07-01,West,Office Supplies,305,12671.12,2022,7,July,2022-07
+2022-08-01,West,Furniture,563,71341.27,2022,8,August,2022-08
+2022-08-01,West,Electronics,676,54699.66,2022,8,August,2022-08
+2022-08-01,East,Office Supplies,430,19860.12,2022,8,August,2022-08
+2022-08-01,East,Furniture,504,60570.33,2022,8,August,2022-08
+2022-08-01,East,Electronics,655,59373.31,2022,8,August,2022-08
+2022-08-01,West,Office Supplies,516,21394.82,2022,8,August,2022-08
+2022-08-01,South,Furniture,530,61502.71,2022,8,August,2022-08
+2022-08-01,South,Electronics,683,62477.29,2022,8,August,2022-08
+2022-08-01,North,Office Supplies,509,21341.07,2022,8,August,2022-08
+2022-08-01,North,Furniture,574,71361.62,2022,8,August,2022-08
+2022-08-01,North,Electronics,713,62998.55,2022,8,August,2022-08
+2022-08-01,South,Office Supplies,449,21189.02,2022,8,August,2022-08
+2022-09-01,West,Furniture,619,77003.04,2022,9,September,2022-09
+2022-09-01,West,Electronics,716,55073.27,2022,9,September,2022-09
+2022-09-01,East,Office Supplies,439,20775.4,2022,9,September,2022-09
+2022-09-01,East,Furniture,525,64523.54,2022,9,September,2022-09
+2022-09-01,East,Electronics,679,55936.03,2022,9,September,2022-09
+2022-09-01,West,Office Supplies,483,21499.84,2022,9,September,2022-09
+2022-09-01,South,Furniture,552,63603.17,2022,9,September,2022-09
+2022-09-01,South,Electronics,700,64703.02,2022,9,September,2022-09
+2022-09-01,North,Office Supplies,517,21415.48,2022,9,September,2022-09
+2022-09-01,North,Furniture,634,73673.93,2022,9,September,2022-09
+2022-09-01,North,Electronics,727,67517.12,2022,9,September,2022-09
+2022-09-01,South,Office Supplies,480,22499.3,2022,9,September,2022-09
+2022-10-01,West,Office Supplies,525,21409.61,2022,10,October,2022-10
+2022-10-01,West,Furniture,598,67642.48,2022,10,October,2022-10
+2022-10-01,West,Electronics,716,59756.41,2022,10,October,2022-10
+2022-10-01,East,Office Supplies,442,21815.26,2022,10,October,2022-10
+2022-10-01,East,Furniture,572,70541.68,2022,10,October,2022-10
+2022-10-01,East,Electronics,723,60468.37,2022,10,October,2022-10
+2022-10-01,South,Office Supplies,529,22143.69,2022,10,October,2022-10
+2022-10-01,South,Electronics,745,65611.02,2022,10,October,2022-10
+2022-10-01,North,Office Supplies,501,20661.96,2022,10,October,2022-10
+2022-10-01,North,Furniture,558,70908.09,2022,10,October,2022-10
+2022-10-01,North,Electronics,709,56210.66,2022,10,October,2022-10
+2022-10-01,South,Furniture,559,73128.79,2022,10,October,2022-10
+2022-11-01,East,Furniture,635,75918.4,2022,11,November,2022-11
+2022-11-01,West,Office Supplies,536,25555.43,2022,11,November,2022-11
+2022-11-01,West,Furniture,649,74281.84,2022,11,November,2022-11
+2022-11-01,West,Electronics,825,70007.11,2022,11,November,2022-11
+2022-11-01,East,Office Supplies,506,21406.19,2022,11,November,2022-11
+2022-11-01,East,Electronics,751,67620.89,2022,11,November,2022-11
+2022-11-01,South,Office Supplies,582,23741.37,2022,11,November,2022-11
+2022-11-01,South,Furniture,653,72580.87,2022,11,November,2022-11
+2022-11-01,South,Electronics,778,70690.1,2022,11,November,2022-11
+2022-11-01,North,Office Supplies,580,27514.21,2022,11,November,2022-11
+2022-11-01,North,Furniture,700,83549.93,2022,11,November,2022-11
+2022-11-01,North,Electronics,755,68851.54,2022,11,November,2022-11
+2022-12-01,West,Office Supplies,586,26463.41,2022,12,December,2022-12
+2022-12-01,West,Furniture,669,77493.66,2022,12,December,2022-12
+2022-12-01,West,Electronics,773,68365.59,2022,12,December,2022-12
+2022-12-01,East,Office Supplies,555,25565.19,2022,12,December,2022-12
+2022-12-01,East,Furniture,644,84801.86,2022,12,December,2022-12
+2022-12-01,East,Electronics,748,60299.84,2022,12,December,2022-12
+2022-12-01,South,Office Supplies,587,23982.81,2022,12,December,2022-12
+2022-12-01,South,Furniture,687,87054.18,2022,12,December,2022-12
+2022-12-01,South,Electronics,727,59220.16,2022,12,December,2022-12
+2022-12-01,North,Office Supplies,587,26943.41,2022,12,December,2022-12
+2022-12-01,North,Furniture,637,69903.57,2022,12,December,2022-12
+2022-12-01,North,Electronics,808,61971.62,2022,12,December,2022-12
+2023-01-01,West,Furniture,545,63300.01,2023,1,January,2023-01
+2023-01-01,West,Electronics,632,57705.69,2023,1,January,2023-01
+2023-01-01,East,Office Supplies,402,18846.38,2023,1,January,2023-01
+2023-01-01,East,Furniture,516,67322.05,2023,1,January,2023-01
+2023-01-01,East,Electronics,659,50767.36,2023,1,January,2023-01
+2023-01-01,West,Office Supplies,448,21429.37,2023,1,January,2023-01
+2023-01-01,South,Furniture,494,55337.67,2023,1,January,2023-01
+2023-01-01,South,Electronics,632,55755.61,2023,1,January,2023-01
+2023-01-01,North,Office Supplies,417,19018.48,2023,1,January,2023-01
+2023-01-01,North,Furniture,516,56701.12,2023,1,January,2023-01
+2023-01-01,North,Electronics,658,50708.41,2023,1,January,2023-01
+2023-01-01,South,Office Supplies,436,18068.32,2023,1,January,2023-01
+2023-02-01,West,Furniture,541,61018.86,2023,2,February,2023-02
+2023-02-01,West,Electronics,682,63724.5,2023,2,February,2023-02
+2023-02-01,East,Office Supplies,468,19916.25,2023,2,February,2023-02
+2023-02-01,East,Furniture,494,59258.61,2023,2,February,2023-02
+2023-02-01,East,Electronics,655,57442.21,2023,2,February,2023-02
+2023-02-01,West,Office Supplies,453,21119.79,2023,2,February,2023-02
+2023-02-01,South,Furniture,512,66008.48,2023,2,February,2023-02
+2023-02-01,South,Electronics,666,51632.31,2023,2,February,2023-02
+2023-02-01,North,Office Supplies,514,21194.62,2023,2,February,2023-02
+2023-02-01,North,Furniture,561,69253.13,2023,2,February,2023-02
+2023-02-01,North,Electronics,722,60784.75,2023,2,February,2023-02
+2023-02-01,South,Office Supplies,426,18093.47,2023,2,February,2023-02
+2023-03-01,West,Office Supplies,519,21634.05,2023,3,March,2023-03
+2023-03-01,West,Furniture,611,76738.37,2023,3,March,2023-03
+2023-03-01,West,Electronics,656,52533.3,2023,3,March,2023-03
+2023-03-01,East,Office Supplies,468,22796.87,2023,3,March,2023-03
+2023-03-01,East,Furniture,539,63667.38,2023,3,March,2023-03
+2023-03-01,East,Electronics,700,64268.35,2023,3,March,2023-03
+2023-03-01,South,Office Supplies,499,23466.63,2023,3,March,2023-03
+2023-03-01,South,Electronics,734,60780.82,2023,3,March,2023-03
+2023-03-01,North,Office Supplies,481,20978.05,2023,3,March,2023-03
+2023-03-01,North,Furniture,538,67493.21,2023,3,March,2023-03
+2023-03-01,North,Electronics,708,64612.53,2023,3,March,2023-03
+2023-03-01,South,Furniture,566,67086.15,2023,3,March,2023-03
+2023-04-01,East,Furniture,524,59838.29,2023,4,April,2023-04
+2023-04-01,West,Furniture,584,66380.48,2023,4,April,2023-04
+2023-04-01,West,Electronics,748,58886.19,2023,4,April,2023-04
+2023-04-01,East,Office Supplies,429,20360.88,2023,4,April,2023-04
+2023-04-01,East,Electronics,675,62761.51,2023,4,April,2023-04
+2023-04-01,West,Office Supplies,508,20910.03,2023,4,April,2023-04
+2023-04-01,South,Furniture,597,69623.1,2023,4,April,2023-04
+2023-04-01,South,Electronics,738,67381.43,2023,4,April,2023-04
+2023-04-01,North,Office Supplies,509,21747.07,2023,4,April,2023-04
+2023-04-01,North,Furniture,607,69016.53,2023,4,April,2023-04
+2023-04-01,North,Electronics,744,59188.63,2023,4,April,2023-04
+2023-04-01,South,Office Supplies,405,18563.81,2023,4,April,2023-04
+2023-05-01,West,Office Supplies,514,25149.74,2023,5,May,2023-05
+2023-05-01,West,Furniture,603,72811.09,2023,5,May,2023-05
+2023-05-01,West,Electronics,742,58174.75,2023,5,May,2023-05
+2023-05-01,East,Office Supplies,514,21769.22,2023,5,May,2023-05
+2023-05-01,East,Furniture,633,80603.74,2023,5,May,2023-05
+2023-05-01,East,Electronics,696,63232.22,2023,5,May,2023-05
+2023-05-01,South,Office Supplies,495,23328.17,2023,5,May,2023-05
+2023-05-01,South,Furniture,585,63694.87,2023,5,May,2023-05
+2023-05-01,South,Electronics,713,63111.35,2023,5,May,2023-05
+2023-05-01,North,Office Supplies,486,22382.39,2023,5,May,2023-05
+2023-05-01,North,Furniture,584,74689.63,2023,5,May,2023-05
+2023-05-01,North,Electronics,752,61836.25,2023,5,May,2023-05
+2023-06-01,West,Furniture,639,83498.6,2023,6,June,2023-06
+2023-06-01,West,Electronics,799,63529.73,2023,6,June,2023-06
+2023-06-01,East,Office Supplies,478,23093.75,2023,6,June,2023-06
+2023-06-01,East,Furniture,556,69034.28,2023,6,June,2023-06
+2023-06-01,East,Electronics,746,59628.91,2023,6,June,2023-06
+2023-06-01,West,Office Supplies,539,25143.94,2023,6,June,2023-06
+2023-06-01,South,Furniture,663,73826.13,2023,6,June,2023-06
+2023-06-01,South,Electronics,745,63522.52,2023,6,June,2023-06
+2023-06-01,North,Office Supplies,566,25239.44,2023,6,June,2023-06
+2023-06-01,North,Furniture,628,75469.04,2023,6,June,2023-06
+2023-06-01,North,Electronics,781,63944.1,2023,6,June,2023-06
+2023-06-01,South,Office Supplies,511,20833.35,2023,6,June,2023-06
+2023-07-01,West,Furniture,628,79999.85,2023,7,July,2023-07
+2023-07-01,West,Electronics,738,61527.34,2023,7,July,2023-07
+2023-07-01,East,Office Supplies,520,25171.45,2023,7,July,2023-07
+2023-07-01,East,Furniture,574,72770.14,2023,7,July,2023-07
+2023-07-01,East,Electronics,693,63272.85,2023,7,July,2023-07
+2023-07-01,West,Office Supplies,471,22306.83,2023,7,July,2023-07
+2023-07-01,South,Furniture,631,69762.24,2023,7,July,2023-07
+2023-07-01,South,Electronics,748,65600.39,2023,7,July,2023-07
+2023-07-01,North,Office Supplies,551,23385.03,2023,7,July,2023-07
+2023-07-01,North,Furniture,608,73990.34,2023,7,July,2023-07
+2023-07-01,North,Electronics,807,73656.01,2023,7,July,2023-07
+2023-07-01,South,Office Supplies,463,21492.74,2023,7,July,2023-07
+2023-08-01,West,Office Supplies,481,21554.88,2023,8,August,2023-08
+2023-08-01,West,Furniture,607,73117.98,2023,8,August,2023-08
+2023-08-01,West,Electronics,738,62272.0,2023,8,August,2023-08
+2023-08-01,East,Office Supplies,506,23314.16,2023,8,August,2023-08
+2023-08-01,East,Furniture,513,56305.19,2023,8,August,2023-08
+2023-08-01,East,Electronics,662,53200.69,2023,8,August,2023-08
+2023-08-01,South,Office Supplies,456,20309.44,2023,8,August,2023-08
+2023-08-01,South,Electronics,700,57910.89,2023,8,August,2023-08
+2023-08-01,North,Office Supplies,500,21710.64,2023,8,August,2023-08
+2023-08-01,North,Furniture,634,70301.1,2023,8,August,2023-08
+2023-08-01,North,Electronics,717,64819.08,2023,8,August,2023-08
+2023-08-01,South,Furniture,615,72155.12,2023,8,August,2023-08
+2023-09-01,East,Furniture,572,65301.03,2023,9,September,2023-09
+2023-09-01,West,Furniture,636,79619.32,2023,9,September,2023-09
+2023-09-01,West,Electronics,709,60737.01,2023,9,September,2023-09
+2023-09-01,East,Office Supplies,462,22049.98,2023,9,September,2023-09
+2023-09-01,East,Electronics,689,58399.52,2023,9,September,2023-09
+2023-09-01,West,Office Supplies,476,20445.92,2023,9,September,2023-09
+2023-09-01,South,Furniture,621,70696.86,2023,9,September,2023-09
+2023-09-01,North,Electronics,716,61835.86,2023,9,September,2023-09
+2023-09-01,North,Furniture,579,69946.94,2023,9,September,2023-09
+2023-09-01,South,Office Supplies,518,25300.84,2023,9,September,2023-09
+2023-09-01,South,Electronics,746,66176.24,2023,9,September,2023-09
+2023-09-01,North,Office Supplies,574,27446.88,2023,9,September,2023-09
+2023-10-01,West,Furniture,620,76051.4,2023,10,October,2023-10
+2023-10-01,West,Electronics,785,71852.24,2023,10,October,2023-10
+2023-10-01,East,Office Supplies,523,25037.42,2023,10,October,2023-10
+2023-10-01,East,Furniture,648,79830.77,2023,10,October,2023-10
+2023-10-01,East,Electronics,746,57619.56,2023,10,October,2023-10
+2023-10-01,West,Office Supplies,531,23469.81,2023,10,October,2023-10
+2023-10-01,South,Furniture,585,76699.49,2023,10,October,2023-10
+2023-10-01,South,Electronics,723,56623.12,2023,10,October,2023-10
+2023-10-01,North,Office Supplies,568,26628.64,2023,10,October,2023-10
+2023-10-01,North,Furniture,649,80701.09,2023,10,October,2023-10
+2023-10-01,North,Electronics,757,60241.71,2023,10,October,2023-10
+2023-10-01,South,Office Supplies,552,24758.25,2023,10,October,2023-10
+2023-11-01,West,Office Supplies,552,24823.94,2023,11,November,2023-11
+2023-11-01,West,Furniture,664,81185.57,2023,11,November,2023-11
+2023-11-01,West,Electronics,806,69149.85,2023,11,November,2023-11
+2023-11-01,East,Office Supplies,561,25785.72,2023,11,November,2023-11
+2023-11-01,East,Furniture,662,73016.71,2023,11,November,2023-11
+2023-11-01,East,Electronics,798,63987.29,2023,11,November,2023-11
+2023-11-01,South,Office Supplies,640,26887.76,2023,11,November,2023-11
+2023-11-01,South,Electronics,835,65233.62,2023,11,November,2023-11
+2023-11-01,North,Office Supplies,597,27765.25,2023,11,November,2023-11
+2023-11-01,North,Electronics,790,70917.46,2023,11,November,2023-11
+2023-11-01,South,Furniture,647,78984.86,2023,11,November,2023-11
+2023-11-01,North,Furniture,676,77466.45,2023,11,November,2023-11
+2023-12-01,West,Office Supplies,630,29310.99,2023,12,December,2023-12
+2023-12-01,East,Electronics,811,62973.67,2023,12,December,2023-12
+2023-12-01,West,Furniture,654,75858.8,2023,12,December,2023-12
+2023-12-01,West,Electronics,796,69701.67,2023,12,December,2023-12
+2023-12-01,East,Office Supplies,597,28907.16,2023,12,December,2023-12
+2023-12-01,East,Furniture,658,83703.23,2023,12,December,2023-12
+2023-12-01,South,Office Supplies,582,25430.47,2023,12,December,2023-12
+2023-12-01,South,Electronics,876,68196.71,2023,12,December,2023-12
+2023-12-01,North,Office Supplies,651,27971.81,2023,12,December,2023-12
+2023-12-01,North,Furniture,771,96546.43,2023,12,December,2023-12
+2023-12-01,North,Electronics,832,69704.46,2023,12,December,2023-12
+2023-12-01,South,Furniture,684,77592.79,2023,12,December,2023-12
+2024-01-01,West,Furniture,589,70976.26,2024,1,January,2024-01
+2024-01-01,West,Electronics,676,62367.1,2024,1,January,2024-01
+2024-01-01,East,Office Supplies,404,19970.67,2024,1,January,2024-01
+2024-01-01,East,Furniture,560,71170.85,2024,1,January,2024-01
+2024-01-01,East,Electronics,634,55667.42,2024,1,January,2024-01
+2024-01-01,West,Office Supplies,469,21626.66,2024,1,January,2024-01
+2024-01-01,South,Furniture,550,60676.13,2024,1,January,2024-01
+2024-01-01,South,Electronics,677,59731.77,2024,1,January,2024-01
+2024-01-01,North,Office Supplies,496,20870.55,2024,1,January,2024-01
+2024-01-01,North,Furniture,582,63696.07,2024,1,January,2024-01
+2024-01-01,North,Electronics,747,63053.15,2024,1,January,2024-01
+2024-01-01,South,Office Supplies,415,18489.64,2024,1,January,2024-01
+2024-02-01,West,Office Supplies,482,23329.65,2024,2,February,2024-02
+2024-02-01,West,Furniture,577,67586.87,2024,2,February,2024-02
+2024-02-01,West,Electronics,775,65834.99,2024,2,February,2024-02
+2024-02-01,East,Office Supplies,466,22728.93,2024,2,February,2024-02
+2024-02-01,East,Furniture,559,66371.67,2024,2,February,2024-02
+2024-02-01,East,Electronics,624,51947.18,2024,2,February,2024-02
+2024-02-01,South,Office Supplies,438,21432.49,2024,2,February,2024-02
+2024-02-01,South,Electronics,722,58953.6,2024,2,February,2024-02
+2024-02-01,North,Office Supplies,520,21229.23,2024,2,February,2024-02
+2024-02-01,North,Furniture,581,74266.69,2024,2,February,2024-02
+2024-02-01,North,Electronics,725,57036.57,2024,2,February,2024-02
+2024-02-01,South,Furniture,543,59786.16,2024,2,February,2024-02
+2024-03-01,East,Furniture,598,75560.55,2024,3,March,2024-03
+2024-03-01,West,Furniture,588,63868.26,2024,3,March,2024-03
+2024-03-01,West,Electronics,698,55133.87,2024,3,March,2024-03
+2024-03-01,West,Office Supplies,510,21275.41,2024,3,March,2024-03
+2024-03-01,East,Electronics,704,61111.64,2024,3,March,2024-03
+2024-03-01,East,Office Supplies,485,21382.66,2024,3,March,2024-03
+2024-03-01,South,Furniture,596,73536.46,2024,3,March,2024-03
+2024-03-01,South,Electronics,704,62173.17,2024,3,March,2024-03
+2024-03-01,North,Office Supplies,525,22082.4,2024,3,March,2024-03
+2024-03-01,North,Furniture,629,72531.44,2024,3,March,2024-03
+2024-03-01,North,Electronics,757,68077.4,2024,3,March,2024-03
+2024-03-01,South,Office Supplies,505,24190.67,2024,3,March,2024-03
+2024-04-01,West,Office Supplies,522,21433.65,2024,4,April,2024-04
+2024-04-01,West,Furniture,603,75140.96,2024,4,April,2024-04
+2024-04-01,West,Electronics,741,59699.45,2024,4,April,2024-04
+2024-04-01,East,Office Supplies,504,24873.97,2024,4,April,2024-04
+2024-04-01,East,Furniture,632,83346.13,2024,4,April,2024-04
+2024-04-01,East,Electronics,714,55326.99,2024,4,April,2024-04
+2024-04-01,South,Office Supplies,537,24890.92,2024,4,April,2024-04
+2024-04-01,South,Furniture,576,70773.18,2024,4,April,2024-04
+2024-04-01,South,Electronics,685,53632.97,2024,4,April,2024-04
+2024-04-01,North,Office Supplies,547,24317.22,2024,4,April,2024-04
+2024-04-01,North,Furniture,650,76946.97,2024,4,April,2024-04
+2024-04-01,North,Electronics,767,71268.86,2024,4,April,2024-04
+2024-05-01,West,Furniture,625,75529.65,2024,5,May,2024-05
+2024-05-01,West,Electronics,697,56399.03,2024,5,May,2024-05
+2024-05-01,East,Office Supplies,504,20499.06,2024,5,May,2024-05
+2024-05-01,East,Furniture,631,68315.06,2024,5,May,2024-05
+2024-05-01,East,Electronics,755,67631.53,2024,5,May,2024-05
+2024-05-01,West,Office Supplies,561,23807.05,2024,5,May,2024-05
+2024-05-01,South,Furniture,592,69161.12,2024,5,May,2024-05
+2024-05-01,South,Electronics,718,60127.77,2024,5,May,2024-05
+2024-05-01,North,Office Supplies,592,26784.08,2024,5,May,2024-05
+2024-05-01,North,Furniture,655,80411.25,2024,5,May,2024-05
+2024-05-01,North,Electronics,789,71276.28,2024,5,May,2024-05
+2024-05-01,South,Office Supplies,534,23617.31,2024,5,May,2024-05
+2024-06-01,West,Furniture,669,72868.97,2024,6,June,2024-06
+2024-06-01,West,Electronics,809,67906.86,2024,6,June,2024-06
+2024-06-01,East,Office Supplies,511,23860.23,2024,6,June,2024-06
+2024-06-01,East,Furniture,575,72933.23,2024,6,June,2024-06
+2024-06-01,East,Electronics,712,60029.14,2024,6,June,2024-06
+2024-06-01,West,Office Supplies,546,26544.26,2024,6,June,2024-06
+2024-06-01,South,Furniture,628,78937.45,2024,6,June,2024-06
+2024-06-01,South,Electronics,766,64956.88,2024,6,June,2024-06
+2024-06-01,North,Office Supplies,609,25202.09,2024,6,June,2024-06
+2024-06-01,North,Furniture,681,82503.85,2024,6,June,2024-06
+2024-06-01,North,Electronics,795,62300.58,2024,6,June,2024-06
+2024-06-01,South,Office Supplies,525,23511.69,2024,6,June,2024-06
+2024-07-01,West,Office Supplies,555,22968.99,2024,7,July,2024-07
+2024-07-01,West,Furniture,601,67419.35,2024,7,July,2024-07
+2024-07-01,West,Electronics,733,65727.46,2024,7,July,2024-07
+2024-07-01,East,Office Supplies,472,20601.54,2024,7,July,2024-07
+2024-07-01,East,Furniture,605,65515.82,2024,7,July,2024-07
+2024-07-01,East,Electronics,720,55952.18,2024,7,July,2024-07
+2024-07-01,South,Office Supplies,511,23823.87,2024,7,July,2024-07
+2024-07-01,South,Electronics,794,67738.47,2024,7,July,2024-07
+2024-07-01,North,Office Supplies,591,24290.02,2024,7,July,2024-07
+2024-07-01,North,Furniture,628,81315.21,2024,7,July,2024-07
+2024-07-01,North,Electronics,835,73237.03,2024,7,July,2024-07
+2024-07-01,South,Furniture,633,76145.68,2024,7,July,2024-07
+2024-08-01,East,Furniture,646,84783.45,2024,8,August,2024-08
+2024-08-01,West,Furniture,658,83883.47,2024,8,August,2024-08
+2024-08-01,West,Electronics,771,66870.36,2024,8,August,2024-08
+2024-08-01,East,Office Supplies,477,23525.51,2024,8,August,2024-08
+2024-08-01,East,Electronics,728,56211.19,2024,8,August,2024-08
+2024-08-01,West,Office Supplies,539,25014.08,2024,8,August,2024-08
+2024-08-01,South,Furniture,596,73165.15,2024,8,August,2024-08
+2024-08-01,North,Electronics,793,64237.59,2024,8,August,2024-08
+2024-08-01,North,Furniture,650,70526.74,2024,8,August,2024-08
+2024-08-01,South,Office Supplies,508,24115.63,2024,8,August,2024-08
+2024-08-01,South,Electronics,714,59256.98,2024,8,August,2024-08
+2024-08-01,North,Office Supplies,568,26197.28,2024,8,August,2024-08
+2024-09-01,West,Furniture,659,83452.29,2024,9,September,2024-09
+2024-09-01,West,Electronics,783,66029.74,2024,9,September,2024-09
+2024-09-01,East,Office Supplies,520,24593.6,2024,9,September,2024-09
+2024-09-01,East,Furniture,599,76861.49,2024,9,September,2024-09
+2024-09-01,East,Electronics,769,70089.19,2024,9,September,2024-09
+2024-09-01,West,Office Supplies,576,26729.54,2024,9,September,2024-09
+2024-09-01,South,Furniture,629,81321.02,2024,9,September,2024-09
+2024-09-01,South,Electronics,710,61713.18,2024,9,September,2024-09
+2024-09-01,North,Office Supplies,541,24049.96,2024,9,September,2024-09
+2024-09-01,North,Furniture,637,72229.92,2024,9,September,2024-09
+2024-09-01,North,Electronics,780,71976.39,2024,9,September,2024-09
+2024-09-01,South,Office Supplies,537,24869.7,2024,9,September,2024-09
+2024-10-01,West,Office Supplies,551,23538.78,2024,10,October,2024-10
+2024-10-01,West,Furniture,671,72618.28,2024,10,October,2024-10
+2024-10-01,West,Electronics,816,72982.28,2024,10,October,2024-10
+2024-10-01,East,Office Supplies,576,26626.53,2024,10,October,2024-10
+2024-10-01,East,Furniture,718,87280.46,2024,10,October,2024-10
+2024-10-01,East,Electronics,782,63778.61,2024,10,October,2024-10
+2024-10-01,South,Office Supplies,576,26138.96,2024,10,October,2024-10
+2024-10-01,South,Electronics,777,62260.77,2024,10,October,2024-10
+2024-10-01,North,Office Supplies,611,29242.5,2024,10,October,2024-10
+2024-10-01,North,Electronics,825,76922.49,2024,10,October,2024-10
+2024-10-01,South,Furniture,700,87911.07,2024,10,October,2024-10
+2024-10-01,North,Furniture,654,85345.24,2024,10,October,2024-10
+2024-11-01,West,Office Supplies,614,28144.16,2024,11,November,2024-11
+2024-11-01,East,Electronics,793,73580.29,2024,11,November,2024-11
+2024-11-01,West,Furniture,763,98632.02,2024,11,November,2024-11
+2024-11-01,West,Electronics,833,76138.75,2024,11,November,2024-11
+2024-11-01,East,Office Supplies,570,24652.75,2024,11,November,2024-11
+2024-11-01,East,Furniture,703,82131.9,2024,11,November,2024-11
+2024-11-01,South,Office Supplies,598,24247.15,2024,11,November,2024-11
+2024-11-01,South,Electronics,846,67423.17,2024,11,November,2024-11
+2024-11-01,North,Office Supplies,687,31632.14,2024,11,November,2024-11
+2024-11-01,North,Furniture,706,79705.18,2024,11,November,2024-11
+2024-11-01,North,Electronics,854,76946.43,2024,11,November,2024-11
+2024-11-01,South,Furniture,739,89641.76,2024,11,November,2024-11
+2024-12-01,West,Office Supplies,655,28497.83,2024,12,December,2024-12
+2024-12-01,West,Furniture,722,78990.57,2024,12,December,2024-12
+2024-12-01,West,Electronics,892,80749.05,2024,12,December,2024-12
+2024-12-01,East,Office Supplies,654,28075.16,2024,12,December,2024-12
+2024-12-01,East,Furniture,771,94434.94,2024,12,December,2024-12
+2024-12-01,East,Electronics,888,76395.72,2024,12,December,2024-12
+2024-12-01,South,Furniture,720,88859.39,2024,12,December,2024-12
+2024-12-01,South,Electronics,900,70272.76,2024,12,December,2024-12
+2024-12-01,North,Office Supplies,627,29875.16,2024,12,December,2024-12
+2024-12-01,North,Furniture,711,76842.92,2024,12,December,2024-12
+2024-12-01,North,Electronics,850,75076.68,2024,12,December,2024-12
+2024-12-01,South,Office Supplies,717,29457.0,2024,12,December,2024-12
+2025-01-01,East,Furniture,612,77635.65,2025,1,January,2025-01
+2025-01-01,West,Office Supplies,543,23761.74,2025,1,January,2025-01
+2025-01-01,West,Furniture,643,72290.84,2025,1,January,2025-01
+2025-01-01,West,Electronics,693,57536.44,2025,1,January,2025-01
+2025-01-01,East,Office Supplies,464,22299.01,2025,1,January,2025-01
+2025-01-01,East,Electronics,661,57715.23,2025,1,January,2025-01
+2025-01-01,North,Electronics,754,67789.47,2025,1,January,2025-01
+2025-01-01,South,Furniture,578,70722.58,2025,1,January,2025-01
+2025-01-01,South,Electronics,705,59134.22,2025,1,January,2025-01
+2025-01-01,North,Office Supplies,483,20988.15,2025,1,January,2025-01
+2025-01-01,North,Furniture,632,76101.94,2025,1,January,2025-01
+2025-01-01,South,Office Supplies,487,22947.91,2025,1,January,2025-01
+2025-02-01,East,Furniture,630,79070.16,2025,2,February,2025-02
+2025-02-01,West,Furniture,631,82634.97,2025,2,February,2025-02
+2025-02-01,West,Electronics,753,59337.17,2025,2,February,2025-02
+2025-02-01,West,Office Supplies,554,22780.82,2025,2,February,2025-02
+2025-02-01,East,Office Supplies,473,21754.23,2025,2,February,2025-02
+2025-02-01,East,Electronics,709,59503.86,2025,2,February,2025-02
+2025-02-01,North,Office Supplies,522,25241.09,2025,2,February,2025-02
+2025-02-01,South,Furniture,614,73063.84,2025,2,February,2025-02
+2025-02-01,South,Electronics,685,62206.82,2025,2,February,2025-02
+2025-02-01,North,Furniture,575,75081.37,2025,2,February,2025-02
+2025-02-01,North,Electronics,759,61917.96,2025,2,February,2025-02
+2025-02-01,South,Office Supplies,495,22199.13,2025,2,February,2025-02
+2025-03-01,West,Office Supplies,535,26392.45,2025,3,March,2025-03
+2025-03-01,West,Furniture,596,74821.66,2025,3,March,2025-03
+2025-03-01,West,Electronics,784,60672.49,2025,3,March,2025-03
+2025-03-01,East,Office Supplies,522,25542.19,2025,3,March,2025-03
+2025-03-01,East,Furniture,635,82293.46,2025,3,March,2025-03
+2025-03-01,East,Electronics,672,55376.05,2025,3,March,2025-03
+2025-03-01,South,Office Supplies,532,23880.49,2025,3,March,2025-03
+2025-03-01,South,Furniture,672,73630.23,2025,3,March,2025-03
+2025-03-01,South,Electronics,770,68845.52,2025,3,March,2025-03
+2025-03-01,North,Office Supplies,559,24007.68,2025,3,March,2025-03
+2025-03-01,North,Furniture,649,73938.94,2025,3,March,2025-03
+2025-03-01,North,Electronics,782,63302.12,2025,3,March,2025-03
+2025-04-01,West,Furniture,625,69986.62,2025,4,April,2025-04
+2025-04-01,West,Electronics,775,60364.23,2025,4,April,2025-04
+2025-04-01,East,Office Supplies,540,24511.6,2025,4,April,2025-04
+2025-04-01,East,Furniture,627,78592.91,2025,4,April,2025-04
+2025-04-01,East,Electronics,727,66245.97,2025,4,April,2025-04
+2025-04-01,West,Office Supplies,483,23672.45,2025,4,April,2025-04
+2025-04-01,South,Furniture,624,80130.83,2025,4,April,2025-04
+2025-04-01,South,Electronics,774,63809.8,2025,4,April,2025-04
+2025-04-01,North,Office Supplies,593,27264.21,2025,4,April,2025-04
+2025-04-01,North,Furniture,635,77195.63,2025,4,April,2025-04
+2025-04-01,North,Electronics,822,65651.22,2025,4,April,2025-04
+2025-04-01,South,Office Supplies,532,24233.13,2025,4,April,2025-04
+2025-05-01,West,Furniture,667,87803.71,2025,5,May,2025-05
+2025-05-01,West,Electronics,850,77709.64,2025,5,May,2025-05
+2025-05-01,East,Office Supplies,558,23627.91,2025,5,May,2025-05
+2025-05-01,East,Furniture,623,72221.38,2025,5,May,2025-05
+2025-05-01,East,Electronics,757,60030.11,2025,5,May,2025-05
+2025-05-01,West,Office Supplies,541,25669.43,2025,5,May,2025-05
+2025-05-01,South,Furniture,660,72102.99,2025,5,May,2025-05
+2025-05-01,South,Electronics,853,72686.3,2025,5,May,2025-05
+2025-05-01,North,Office Supplies,617,25334.3,2025,5,May,2025-05
+2025-05-01,North,Furniture,715,84285.9,2025,5,May,2025-05
+2025-05-01,North,Electronics,832,70186.71,2025,5,May,2025-05
+2025-05-01,South,Office Supplies,613,29164.4,2025,5,May,2025-05
+2025-06-01,West,Office Supplies,624,30360.9,2025,6,June,2025-06
+2025-06-01,West,Furniture,667,85757.73,2025,6,June,2025-06
+2025-06-01,West,Electronics,839,74109.11,2025,6,June,2025-06
+2025-06-01,East,Office Supplies,567,23769.54,2025,6,June,2025-06
+2025-06-01,East,Furniture,685,80489.75,2025,6,June,2025-06
+2025-06-01,East,Electronics,837,75384.02,2025,6,June,2025-06
+2025-06-01,South,Office Supplies,545,25961.45,2025,6,June,2025-06
+2025-06-01,South,Electronics,784,65046.24,2025,6,June,2025-06
+2025-06-01,North,Office Supplies,618,29601.54,2025,6,June,2025-06
+2025-06-01,North,Furniture,698,83723.36,2025,6,June,2025-06
+2025-06-01,North,Electronics,855,73237.53,2025,6,June,2025-06
+2025-06-01,South,Furniture,678,77896.31,2025,6,June,2025-06
+2025-07-01,East,Furniture,647,76514.06,2025,7,July,2025-07
+2025-07-01,West,Furniture,670,75373.58,2025,7,July,2025-07
+2025-07-01,West,Office Supplies,565,27246.33,2025,7,July,2025-07
+2025-07-01,East,Office Supplies,578,27151.08,2025,7,July,2025-07
+2025-07-01,East,Electronics,735,67247.19,2025,7,July,2025-07
+2025-07-01,West,Electronics,868,79538.65,2025,7,July,2025-07
+2025-07-01,South,Furniture,656,86074.44,2025,7,July,2025-07
+2025-07-01,South,Electronics,797,69307.17,2025,7,July,2025-07
+2025-07-01,North,Office Supplies,563,25032.62,2025,7,July,2025-07
+2025-07-01,North,Furniture,669,86605.9,2025,7,July,2025-07
+2025-07-01,North,Electronics,801,63785.09,2025,7,July,2025-07
+2025-07-01,South,Office Supplies,605,26777.21,2025,7,July,2025-07
+2025-08-01,West,Furniture,684,79656.59,2025,8,August,2025-08
+2025-08-01,West,Electronics,754,67279.46,2025,8,August,2025-08
+2025-08-01,East,Office Supplies,519,23123.09,2025,8,August,2025-08
+2025-08-01,East,Furniture,635,72235.68,2025,8,August,2025-08
+2025-08-01,East,Electronics,774,60535.19,2025,8,August,2025-08
+2025-08-01,West,Office Supplies,603,28988.04,2025,8,August,2025-08
+2025-08-01,South,Furniture,676,78446.42,2025,8,August,2025-08
+2025-08-01,South,Electronics,767,63340.83,2025,8,August,2025-08
+2025-08-01,North,Office Supplies,612,27315.63,2025,8,August,2025-08
+2025-08-01,North,Furniture,702,81112.17,2025,8,August,2025-08
+2025-08-01,North,Electronics,800,70859.3,2025,8,August,2025-08
+2025-08-01,South,Office Supplies,549,23093.06,2025,8,August,2025-08
+2025-09-01,West,Office Supplies,595,28199.78,2025,9,September,2025-09
+2025-09-01,West,Furniture,694,89462.78,2025,9,September,2025-09
+2025-09-01,West,Electronics,791,64598.67,2025,9,September,2025-09
+2025-09-01,East,Office Supplies,532,21704.91,2025,9,September,2025-09
+2025-09-01,East,Furniture,612,73625.87,2025,9,September,2025-09
+2025-09-01,East,Electronics,804,70993.65,2025,9,September,2025-09
+2025-09-01,South,Office Supplies,573,27523.12,2025,9,September,2025-09
+2025-09-01,South,Electronics,833,64710.69,2025,9,September,2025-09
+2025-09-01,North,Office Supplies,572,26699.21,2025,9,September,2025-09
+2025-09-01,North,Furniture,694,77055.07,2025,9,September,2025-09
+2025-09-01,North,Electronics,836,72966.43,2025,9,September,2025-09
+2025-09-01,South,Furniture,678,76920.67,2025,9,September,2025-09
+2025-10-01,East,Furniture,677,88032.91,2025,10,October,2025-10
+2025-10-01,West,Furniture,731,79263.91,2025,10,October,2025-10
+2025-10-01,West,Electronics,828,76162.0,2025,10,October,2025-10
+2025-10-01,West,Office Supplies,637,31318.29,2025,10,October,2025-10
+2025-10-01,East,Office Supplies,610,26309.28,2025,10,October,2025-10
+2025-10-01,East,Electronics,795,70817.3,2025,10,October,2025-10
+2025-10-01,North,Office Supplies,654,27140.28,2025,10,October,2025-10
+2025-10-01,South,Furniture,731,88538.4,2025,10,October,2025-10
+2025-10-01,South,Electronics,883,74260.25,2025,10,October,2025-10
+2025-10-01,North,Furniture,756,98108.15,2025,10,October,2025-10
+2025-10-01,North,Electronics,873,70647.42,2025,10,October,2025-10
+2025-10-01,South,Office Supplies,607,26661.63,2025,10,October,2025-10
+2025-11-01,West,Office Supplies,655,26731.88,2025,11,November,2025-11
+2025-11-01,West,Furniture,747,94921.2,2025,11,November,2025-11
+2025-11-01,East,Office Supplies,657,31884.68,2025,11,November,2025-11
+2025-11-01,East,Furniture,690,75317.25,2025,11,November,2025-11
+2025-11-01,East,Electronics,820,73090.11,2025,11,November,2025-11
+2025-11-01,West,Electronics,928,73915.77,2025,11,November,2025-11
+2025-11-01,South,Furniture,739,85155.24,2025,11,November,2025-11
+2025-11-01,South,Electronics,921,74243.83,2025,11,November,2025-11
+2025-11-01,North,Office Supplies,685,28337.64,2025,11,November,2025-11
+2025-11-01,North,Furniture,795,91231.42,2025,11,November,2025-11
+2025-11-01,North,Electronics,869,78731.15,2025,11,November,2025-11
+2025-11-01,South,Office Supplies,642,29458.31,2025,11,November,2025-11
+2025-12-01,West,Electronics,948,79667.51,2025,12,December,2025-12
+2025-12-01,East,Office Supplies,674,32711.05,2025,12,December,2025-12
+2025-12-01,East,Furniture,769,91072.9,2025,12,December,2025-12
+2025-12-01,East,Electronics,804,65838.03,2025,12,December,2025-12
+2025-12-01,South,Office Supplies,694,31678.29,2025,12,December,2025-12
+2025-12-01,North,Office Supplies,679,28073.06,2025,12,December,2025-12
+2025-12-01,South,Electronics,907,83411.04,2025,12,December,2025-12
+2025-12-01,North,Furniture,828,105945.05,2025,12,December,2025-12
+2025-12-01,North,Electronics,927,71918.42,2025,12,December,2025-12
+2025-12-01,West,Furniture,825,100815.6,2025,12,December,2025-12
+2025-12-01,South,Furniture,797,102889.11,2025,12,December,2025-12
+2025-12-01,West,Office Supplies,727,34040.83,2025,12,December,2025-12
